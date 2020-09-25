@@ -7,7 +7,7 @@
 
 - my current projects [DerEineGamer.de](https://dereinegamer.de), [xvace.com](https://xvace.com), [MyCityWorld.net](https://MyCityWorld.net), [forum.MyCityWorld.net](https://forum.MyCityWorld.net), [Bausuchtwert.de](https://Bausuchtwert.de),[KingPVP.de](https://KingPVP.de) !
 
-## Connect with me:
+## Connect me:
 
 [<img align="left" alt="DerEineGamer.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mailto:marvin@dereinegamer.de" width="22px" src="https://fa.dereinegamer.de/svgs/solid/envelope.svg" />][email]
