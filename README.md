@@ -39,6 +39,8 @@
 ###    Github Stats
   <img align="left" alt="DerEineGamer's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DerEineGamer&show_icons=true&hide_border=true" />
 
+![Profile Views](https://gpvc.arturio.dev/DerEineGamer)
+
 [email]: mailto:marvin@dereinegamer.de
 [website]: https://dereinegamer.de
 [twitter]: https://twitter.com/DerEineGamer
