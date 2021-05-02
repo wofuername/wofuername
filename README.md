@@ -1,7 +1,7 @@
-# Hey i'm [Marvin](https://dereinegamer.de) ✌
+# Hey i'm [Marvin](https://mrvn.dev) ✌
 
-[![Website](https://img.shields.io/website?label=dereinegamer.de&style=for-the-badge&url=https://dereinegamer.de)](https://dereinegamer.de)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DerEineGamer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDerEineGamer&screen_name=DerEineGamer)
+[![Website](https://img.shields.io/website?label=mrvn.dev&style=for-the-badge&url=https://mrvn.dev)](https://mrvn.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wofuername?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwofuername&screen_name=wofuername)
 
 ## I'm a Developer!
 
