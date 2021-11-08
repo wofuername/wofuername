@@ -41,8 +41,8 @@
 
 ![Profile Views](https://gpvc.arturio.dev/wofuername)
 
-[email]: mailto:marvin@dereinegamer.de
-[website]: https://wofuername.dev
+[email]: mailto:marvin@mrvn.dev
+[website]: https://mrvn.dev
 [twitter]: https://twitter.com/wofuername
 [youtube]: https://youtube.com/wofuername
 [instagram]: https://instagram.com/wofuername
